@@ -93,6 +93,34 @@ namespace WindowsFormsApp1
             }
         }
 
+        private void button14_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToDouble(textBox1.Text);
+            znak = (sender as Button).Text[0];
+            textBox1.Clear();
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToDouble(textBox1.Text);
+            znak = (sender as Button).Text[0];
+            textBox1.Clear();
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToDouble(textBox1.Text);
+            znak = (sender as Button).Text[0];
+            textBox1.Clear();
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            a = Convert.ToDouble(textBox1.Text);
+            znak = (sender as Button).Text[0];
+            textBox1.Clear();
+        }
+
         double f, d;
         private void button13_Click(object sender, EventArgs e)
         {

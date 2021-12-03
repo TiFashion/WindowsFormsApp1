@@ -225,6 +225,7 @@ namespace WindowsFormsApp1
             this.button14.TabIndex = 15;
             this.button14.Text = "/";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
             // button15
             // 
@@ -235,6 +236,7 @@ namespace WindowsFormsApp1
             this.button15.TabIndex = 16;
             this.button15.Text = "X";
             this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
             // button16
             // 
@@ -245,6 +247,7 @@ namespace WindowsFormsApp1
             this.button16.TabIndex = 17;
             this.button16.Text = "-";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // button17
             // 
@@ -255,6 +258,7 @@ namespace WindowsFormsApp1
             this.button17.TabIndex = 18;
             this.button17.Text = "+";
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // button18
             // 
